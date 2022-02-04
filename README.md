@@ -31,3 +31,5 @@ node ./report.js
 ```
 
 ## Screenshots of the Newman Report
+![1](https://user-images.githubusercontent.com/96170694/152589598-cf941aa9-1406-4e99-a165-2bd856f4821d.JPG)
+
