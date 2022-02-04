@@ -1,0 +1,39 @@
+{
+	"id": "8459f3ed-14a8-4eb2-bab0-21904ef9fd8d",
+	"name": "DmoneyEnvironment",
+	"values": [
+		{
+			"key": "token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhbG1hbnNyYWJvbkBnbWFpbC5jb20iLCJwYXNzd29yZCI6IjEyMzQiLCJpYXQiOjE2NDM5OTY2NTIsImV4cCI6MTY0Mzk5ODQ1Mn0.fNMa_JWJAqBWA6FFvR_lFgBCiHgLFfVhd7mPKvAeYI4",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "baseURL",
+			"value": "http://dmoney.professionaltrainingbd.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "phone_number",
+			"value": "01326165876",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "secretAuthKey",
+			"value": "ROADTOSDET",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "agent_phone_number",
+			"value": "0191924716",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2022-02-04T18:11:04.928Z",
+	"_postman_exported_using": "Postman/9.12.1"
+}
